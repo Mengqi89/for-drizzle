@@ -2,7 +2,7 @@
 
 [Live App](https://mengqi89.github.io/for-drizzle/)
 
-![Alt text](https://github.com/Mengqi89/for-drizzle/blob/master/assets/hero-img.jpg "Screenshot of live app")
+![Alt text](https://github.com/Mengqi89/for-drizzle/blob/master/assets/screenshot.png "Screenshot of live app")
 
 ## About 
 With For Drizzle, input an address to find out whether or not you should water your plants. For Drizzle will look up the current moisture content of the soil and the rain forecast and give a recommendation.
